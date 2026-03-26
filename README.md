@@ -35,5 +35,3 @@ Este projeto foi criado como parte da disciplina de **Projeto de Segurança da I
 - Spring Data JPA
 - MySQL
 - Thymeleaf (templates HTML)
-
-## 📂 Estrutura do Projeto
